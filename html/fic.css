@@ -1,0 +1,16 @@
+body {
+  background: #ec8080;
+}
+#elemento {
+  background: rgb(212, 164, 236);
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  padding: 25px;
+  border: 1px solid #fff;
+}
+ul {
+  display: inline-flex;
+  gap: 10px;
+  list-style: none;
+}
