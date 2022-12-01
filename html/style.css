@@ -12,6 +12,9 @@ h1{
     color:rgb(255, 255, 255)
 
 }
+div{
+    text-align: center;
+}
 div.container4 {
     height: 10em;
     position: relative }
