@@ -3,9 +3,9 @@ body{
 }
 #elemento 
 { background: rgb(212, 164, 236); width: 200px; height: 200px;
-    margin: 25px; padding: 25px; border: 1px solid #fff; }
+    margin: 25px;  padding: 25px;border: 1px solid rgb(217, 52, 52); }
     ul{
         display: inline-flex;
         gap: 10px;
-        list-style: none;
+       list-style: none;
     }
